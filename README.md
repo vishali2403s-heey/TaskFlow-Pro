@@ -299,7 +299,7 @@ JWT_SECRET=taskflow_secret_key
 
 # 👩‍💻 Author
 
-**Shalini S**
+*VISHALI S**
 
 - 🎓 B.Tech Artificial Intelligence & Machine Learning
 - 💻 Full Stack Developer
@@ -308,7 +308,7 @@ JWT_SECRET=taskflow_secret_key
 **GitHub**
 
 
-
+**https://github.com/vishali2403s-heey/TaskFlow-Pro.git**
 ---
 
 # 📜 License
